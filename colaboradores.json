@@ -1,0 +1,57 @@
+[
+  {
+    "id": "juan-daniel-campos",
+    "nombre": "Juan Daniel Campos Rodriguez",
+    "cargo": "Coordinación Comercial",
+    "empresa": "Grupo SIR",
+    "telefono": "61242563",
+    "correo": "daniel.campos@sircr.com",
+    "web": "https://sircr.com",
+    "cedula": "207560072",
+    "foto": "foto-juan-daniel.jpg"
+  },
+  {
+    "id": "roger-esteban-vasquez",
+    "nombre": "Róger Esteban Vásquez López",
+    "cedula": "206250951",
+    "cargo": "Servicios Técnicos",
+    "empresa": "Grupo SIR",
+    "telefono": "8649-4432",
+    "correo": "",
+    "web": "https://sircr.com",
+    "foto": "foto-roger-esteban-vasquez.jpg"
+  },
+  {
+    "id": "marco-josue-vargas",
+    "nombre": "Marco Josué Vargas Soto",
+    "cedula": "207950979",
+    "cargo": "Servicios Técnicos",
+    "empresa": "Grupo SIR",
+    "telefono": "7183-8666",
+    "correo": "",
+    "web": "https://sircr.com",
+    "foto": "foto-marco-josue-vargas.jpg"
+  },
+  {
+    "id": "jose-emmanuel-araya",
+    "nombre": "José Emmanuel Araya López",
+    "cedula": "114900780",
+    "cargo": "Servicios Técnicos",
+    "empresa": "Grupo SIR",
+    "telefono": "6097-0143",
+    "correo": "",
+    "web": "https://sircr.com",
+    "foto": "foto-jose-emmanuel-araya.jpg"
+  },
+  {
+    "id": "marvin-roberto-rojas",
+    "nombre": "Marvin Roberto Rojas Acosta",
+    "cedula": "207780450",
+    "cargo": "Servicios Técnicos",
+    "empresa": "Grupo SIR",
+    "telefono": "8607-5038",
+    "correo": "",
+    "web": "https://sircr.com",
+    "foto": "foto-marvin-roberto-rojas.jpg"
+  }
+]

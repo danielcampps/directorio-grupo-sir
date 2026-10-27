@@ -1,0 +1,11 @@
+DIRECTORIO DIGITAL GRUPO SIR — 5 COLABORADORES
+
+1. Suba TODOS los archivos de esta carpeta a la raíz de un repositorio público de GitHub.
+2. Settings > Pages > Deploy from a branch > main > /(root).
+3. La URL raíz muestra el directorio; cada tarjeta usa ?id= seguido del id de colaboradores.json.
+4. Genere los QR individuales SOLO después de tener la URL pública real.
+5. Los 4 nuevos colaboradores tienen fotografía y correo pendientes; se muestran iniciales mientras tanto. No se inventaron correos.
+6. Para añadir fotografías, suba los archivos y complete el campo foto en colaboradores.json.
+7. Las cédulas son datos personales y serán públicas al publicar; confirme autorización de cada colaborador o elimine el campo cedula antes de publicar.
+8. Mantenga el mismo id al actualizar un contacto para conservar su enlace y QR.
+9. Guardar contacto descarga una vCard con datos, sin fotografía.
